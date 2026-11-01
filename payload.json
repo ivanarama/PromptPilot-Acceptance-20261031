@@ -1,1 +1,8 @@
-{"fixture": "candidate", "value": 1}
+{
+  "fixture": "candidate",
+  "value": 1,
+  "acceptance_c195": {
+    "value": 0,
+    "fixture_step": 1
+  }
+}
