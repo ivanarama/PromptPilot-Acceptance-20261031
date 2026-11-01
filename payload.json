@@ -1,1 +1,8 @@
-{"fixture": "candidate", "value": 1}
+{
+  "fixture": "candidate",
+  "value": 1,
+  "acceptance_140_3": {
+    "ok": true,
+    "issue": 5
+  }
+}
